@@ -2,7 +2,7 @@ import { type RefObject, createRef } from "react"
 
 function App() {
   return (
-    <div>
+    <div className="test">
       Coming soon...
     </div>
   )
